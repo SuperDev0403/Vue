@@ -1,0 +1,326 @@
+{
+  "footer": "Powered By",
+  "Header": {
+    "profile": "Profile",
+    "logout": "Logout",
+    "dashboard": "Dashboard"
+  },
+  "Dashboard": {
+    "nav": "Dashboard",
+    "main": "Dashboard",
+    "action": "ການປະຕິບັດ",
+    "more": "Something else here...",
+    "Another_action": "ການກະ ທຳ ອື່ນ",
+    "overView": "ພາບລວມ",
+    "date": "November 2017",
+    "Line_Chart": "ເສັ້ນຕາຕະລາງ",
+    "barChart": "ຕາຕະລາງບາ",
+    "users": "ຜູ້ໃຊ້",
+    "username": "ຊື່ຜູ້ໃຊ້",
+    "registered": "ຊື່ຜູ້ໃຊ້",
+    "role": "ພາລະບົດບາດ",
+    "status": "ສະຖານະພາບ"
+  },
+  "select": "ກະ​ລຸ​ນາ​ເລືອກ",
+  "submit": "ບັນທຶກ",
+  "Games": {
+    "user_role": "ບົດບາດຂອງຜູ້ໃຊ້",
+    "percentage": "ເປີເຊັນ",
+    "providerLevel": "ເປີເຊັນຂອງຜູ້ໃຫ້ບໍລິການ",
+    "nav": "ເກມ",
+    "Games": "ເກມ",
+    "main": "ເກມ",
+    "Game_search": "ຄົ້ນຫາເກມ",
+    "from": "ຈາກ",
+    "to": "ເມື່ອ​ໃດ​",
+    "quick": "ຄົ້ນຫາໄວ",
+    "category": "ປະເພດ",
+    "select": "ກະ​ລຸ​ນາ​ເລືອກ",
+    "provider": "ຜູ້ໃຫ້ບໍລິການ",
+    "all": "ທຸກປະເພດ",
+    "desc": "ກະລຸນາຂຽນເຂົ້າໃນການຄົ້ນຫາ",
+    "placeholder": "Name, Url, Mobile URL",
+    "list": {
+      "title": "ບັນຊີລາຍຊື່ເກມ",
+      "all": "ເບິ່ງ​ທັງ​ຫມົດ"
+    },
+    "edit": {
+      "title": "ດັດແກ້ລາຍການ",
+      "name": "ຊື່",
+      "desc": "ຄຳ ອະທິບາຍ",
+      "type": "ປະເພດເກມ",
+      "selCat": "ເລືອກປະເພດ",
+      "pick": "ກະ​ລຸ​ນາ​ເລືອກ",
+      "rtp": "RTP Value",
+      "opSelected": "ທາງເລືອກທີ່ເລືອກ",
+      "sort": "ຄັດ"
+    },
+    "table": {
+      "image": "ຮູບພາບ",
+      "name": "ຊື່ / ຊື່ຂອງຈີນ",
+      "game_code": "ລະຫັດເກມ",
+      "category": "ປະເພດ",
+      "volatility": "ການເຫນັງຕີງ",
+      "status": "ສະຖານະພາບ",
+      "opt": "ທາງເລືອກ",
+      "onoff": "ON / OFF"
+    }
+  },
+  "save": "ບັນທຶກ",
+  "cancel": "ຍົກເລີກ",
+  "edit": "ດັດແກ້",
+  "del": "ລົບ",
+  "from": "ຈາກ",
+  "to": "ເມື່ອ​ໃດ​",
+  "onoff": "ON / OFF",
+  "record": "ບັນທຶກ",
+  "search": "ຄົ້ນຫາ",
+  "Withdraw_money": "ຖອນເງິນ",
+  "Authorization_to_withdraw": {
+    "nav": "ການອະນຸຍາດໃຫ້ຖອນ",
+    "main": "ບົດລາຍງານການຖອນເງິນ"
+  },
+  "search_desc": "ກະລຸນາຂຽນເຂົ້າໃນການຄົ້ນຫາ",
+  "Automatic_transfer_waiting_list": {
+    "nav": "ບັນຊີລໍຖ້າການໂອນຍ້າຍໂດຍອັດຕະໂນມັດ",
+    "main": "ບົດລາຍງານການຖອນເງິນ"
+  },
+  "Error_transfer": {
+    "nav": "ບັນຊີລາຍຊື່ຂໍ້ຜິດພາດ, ການໂອນຍ້າຍໂດຍອັດຕະໂນມັດ",
+    "main": "ບົດລາຍງານການຖອນເງິນ"
+  },
+  "Set_Up": "ຕັ້ງ​ຄ່າ",
+  "System_Setting": {
+    "nav": "ການຕັ້ງຄ່າລະບົບ",
+    "main": "ຕັ້ງ​ຄ່າ",
+    "band": "ຍີ່ຫໍ້",
+    "agent": "ຕົວແທນ",
+    "providers": "ກະລຸນາເລືອກຜູ້ໃຫ້ບໍລິການ",
+    "link_to_play": "ການເຊື່ອມຕໍ່ກັບຫຼິ້ນເກມ",
+    "amount": "ຂອບເຂດ ຈຳ ກັດສິນເຊື່ອ",
+    "withdraw_bonus": "ຖອນເງິນ ຈຳ ນວນ",
+    "promotion_deposit": "ໂປຼໂມຊັນກ່ອນຝາກ",
+    "subcard": "ສຳ ລັບຜູ້ທີ່ບໍ່ຍອມຮັບໂປໂມຊັ່ນ",
+    "add_every": "ເພີ່ມທຸກຄັ້ງ",
+    "num_turn": "ຈຳ ນວນຮອບ",
+    "desc": "ຈະຄູນ ຈຳ ນວນເງິນທີ່ຝາກໄວ້ແລະໂບນັດຈະຄູນໃຫ້ຫລາຍຂື້ນ, ເຊັ່ນວ່າມີການເປີດ 10 ຄັ້ງ. ມີສິດໂບນັດ 100 ລູກຄ້າ 50 ຄົນຕ້ອງເຮັດ 1500 ເທື່ອ.",
+    "min_deposit": "ເງິນຝາກຂັ້ນຕ່ ຳ",
+    "logo": "ເວັບໄຊທ໌ ໂລໂກ້",
+    "logo_list": "ໂລໂກ້ ບັນຊີລາຍຊື່",
+    "select_logo": "Please select the site Logo"
+  },
+  "Setup_withdrawal": {
+    "nav": "ຕັ້ງຄ່າຖອນ",
+    "main": "ຕັ້ງຄ່າຖອນ",
+    "switch": "ບັງຄັບໃຫ້ຖອນເງິນທັງ ໝົດ ໃນຄັ້ງດຽວ",
+    "subcard": "ສຳ ລັບຜູ້ທີ່ບໍ່ຍອມຮັບໂປໂມຊັ່ນ",
+    "min": "ຈຳ ນວນເງິນຂັ້ນຕ່ ຳ",
+    "max": "ຈຳ ນວນເງິນສູງສຸດ"
+  },
+  "colors_backgrounds": {
+    "nav": "ກຳ ນົດສີພື້ນແລະພື້ນຖານຂອງເວັບໄຊ",
+    "main": "ກຳ ນົດສີພື້ນແລະພື້ນຖານຂອງເວັບໄຊ",
+    "bgc": "ສີພື້ນຫລັງ",
+    "picture": "ເປັນຮູບ",
+    "logo": "Website Logo",
+    "select_logo": "Please select the site Logo",
+    "pickColor": "Pick Color",
+    "txtColor": "Text Color"
+  },
+  "membership_page": {
+    "nav": "ຕັ້ງ ໜ້າ ສະມາຊິກ",
+    "main": "ຕັ້ງລະບົບສະມາຊິກ",
+    "opt_selected": "ທາງເລືອກທີ່ເລືອກ",
+    "label": "Select more ways",
+    "pick": "Pick some"
+  },
+  "staff": {
+    "nav": "ພະນັກງານ",
+    "main": "ລາຍຊື່ຜູ້ຊ່ວຍ",
+    "result": "ຜົນໄດ້ຮັບ"
+  },
+  "Employee_list": {
+    "nav": "ລາຍຊື່ພະນັກງານ",
+    "main": "ລາຍຊື່ພະນັກງານ"
+  },
+  "Add_staff": {
+    "nav": "ເພີ່ມພະນັກງານ",
+    "main": "ເພີ່ມພະນັກງານ",
+    "firstname": "ຊື່​ແທ້",
+    "lastname": "ນາມ​ສະ​ກຸນ",
+    "password": "ລະຫັດຜ່ານ",
+    "username": "ຊື່ຜູ້ໃຊ້",
+    "enable": "ເຮັດໃຫ້",
+    "subcard": "ກໍານົດການອະນຸຍາດ"
+  },
+  "show": "ສະແດງແບບຟອມຕື່ມ",
+  "hide": "ຊ່ອນແບບຟອມ",
+  "deposit_withdraw_money": {
+    "nav": "ຝາກເງິນເຂົ້າທະນາຄານ / ຖອນເງິນ",
+    "main": "ເພີ່ມຫລືລຶບບັນຊີ ສຳ ລັບການຝາກເງິນແລະການຖອນເງິນ",
+    "select_bank": "Select Bankເລືອກທະນາຄານ",
+    "bank_account_name": "ຊື່ບັນຊີທະນາຄານ",
+    "baccnum": "ເລກບັນຊີທະນາຄານ",
+    "idCard": "ບັດປະ ຈຳ ຕົວ",
+    "date": "ວັນທີ",
+    "pin": "PIN Code",
+    "deposit": "ເງິນຝາກ",
+    "withdraw": "ຖອນ",
+    "status": "ສະຖານະພາບ",
+    "all": "ບັນຊີທັງ ໝົດ"
+  },
+  "Wallet_Deposit": {
+    "nav": "ຝາກເງິນເຂົ້າກະເປົາເງິນແທ້",
+    "main": "ຕື່ມບັນຊີ TrueWallet ສຳ ລັບການຝາກເງິນ.",
+    "walletNum": "ຈຳ ນວນກະເປົາເງິນ",
+    "walletpass": "ລະຫັດຜ່ານຂອງ Wallet",
+    "sub": "ບັນຊີ TrueWallet ສຳ ລັບການຝາກເງິນ"
+  },
+  "Promotion": {
+    "nav": "ການສົ່ງເສີມ",
+    "main": "ເພີ່ມ / ລຶບໂປໂມຊັ່ນ",
+    "name": "ຊື່ການສົ່ງເສີມ",
+    "category": "ໝວດ",
+    "bonus_type": "ປະເພດໂບນັດ",
+    "max_bonus": "ໂບນັດສູງສຸດ",
+    "top_turn": "ຫັນສຸດຍອດ",
+    "maxw_ithdraw": "ຈຳ ນວນການຖອນເງິນສູງສຸດຂອງທ່ານແມ່ນເທົ່າໃດ?",
+    "bonus_desc": "ກຳ ນົດໂບນັດສູງສຸດ ສຳ ລັບແຕ່ລະຝາກ.",
+    "withdraw_desc": "ຄິດໄລ່ຈາກເງິນຝາກບວກກັບໂບນັດ, ຍົກຕົວຢ່າງດ້ວຍການຖອນເງິນສູງສຸດ 10 ຄັ້ງ, ຝາກເງິນ 100 ໂບນັດ, ການຖອນເງິນສູງສຸດແມ່ນ 1500 (ໃສ່ 0 ຖ້າບໍ່ຕ້ອງການ)",
+    "topturn_desc": "ຈະຄູນ ຈຳ ນວນເງິນທີ່ຝາກໄວ້ແລະໂບນັດຈະຄູນໃຫ້ຫລາຍຂື້ນ, ເຊັ່ນວ່າມີການເປີດ 10 ຄັ້ງ. ການສະສົມ 100 ໂບນັດ 50 ລູກຄ້າຕ້ອງເຮັດ 1500 ບາດ.",
+    "status": "ສະຖານະພາບ",
+    "conditions": {
+      "title": "ເງື່ອນໄຂ",
+      "remove": "ເອົາອອກ",
+      "add": "ເພີ່ມເງື່ອນໄຂ",
+      "min": "ຕໍາ່ສຸດທີ່",
+      "max": "ສູງສຸດ",
+      "bonus": "ໂບນັດ"
+    }
+  },
+  "Promotional_Image": {
+    "nav": "ຮູບພາບໂຄສະນາ",
+    "main": "ເພີ່ມ / ລຶບຮູບພາບໂຄສະນາ",
+    "label": "ກະລຸນາເລືອກຮູບພາບ",
+    "imagelist": "ລາຍຊື່ຮູບພາບ"
+  },
+  "Affiliate": {
+    "nav": "ເປັນພີ່ນ້ອງກັນ",
+    "main": "ເປັນພີ່ນ້ອງກັນ",
+    "bonus_type": "ປະເພດໂບນັດ",
+    "max_bonus": "ໂບນັດສູງສຸດ",
+    "top_turn": "Top Turn",
+    "conditions": {
+      "title": "ເງື່ອນໄຂ",
+      "remove": "ເອົາອອກ",
+      "add": "ເພີ່ມເງື່ອນໄຂ",
+      "min": "ຕໍາ່ສຸດທີ່",
+      "max": "ສູງສຸດ",
+      "bonus": "ໂບນັດ"
+    },
+    "image": "ເພີ່ມ / ລຶບຮູບພາບ",
+    "select_logo": "ກະລຸນາເລືອກ logo ເວັບໄຊ"
+  },
+  "Alert": {
+    "nav": "ແຈ້ງເຕືອນ",
+    "main": "ເພີ່ມ / ລຶບກຸ່ມ LINE ເພື່ອການແຈ້ງເຕືອນ.",
+    "line_token": "Line Token",
+    "lt_desc": "Please enter Line Token",
+    "deposit": "ຝາກເງິນ",
+    "withdraw": "ຖອນການແຈ້ງເຕືອນ",
+    "succes": "ການຖອນເງິນຢ່າງປະສົບຜົນ ສຳ ເລັດ",
+    "become": "ເຂົ້າເປັນສະມາຊິກ",
+    "all": "ບັນຊີທັງ ໝົດ"
+  },
+  "Report": "ບົດລາຍງານ",
+  "Deposit_Withdraw_Transfer": {
+    "nav": "ຝາກ / ຖອນ / ໂອນ"
+  },
+  "Deposit": {
+    "nav": "ຝາກເງິນ",
+    "main": "ບົດລາຍງານການຝາກເງິນ",
+    "user": "ຜູ້ໃຊ້"
+  },
+  "Withdraw": {
+    "nav": "ຖອນເງິນ",
+    "main": "ລາຍງານການຖອນ",
+    "user": "ຜູ້ໃຊ້"
+  },
+  "Transfer": {
+    "nav": "ໂອນ",
+    "main": "ບົດລາຍງານການໂອນເງິນ",
+    "user": "ຜູ້ໃຊ້"
+  },
+  "Summary_Report": {
+    "nav": "ບົດລາຍງານສະຫຼຸບສັງລວມ"
+  },
+  "Profit_Loss": {
+    "nav": "ກຳ ໄລຫລືຂາດທຶນ",
+    "main": "ບົດລາຍງານຜົນ ກຳ ໄລແລະຂາດທຶນ"
+  },
+  "Promotion_Summary": {
+    "nav": "ບົດສະຫຼຸບການສົ່ງເສີມ",
+    "main": "ບົດລາຍງານສະຫຼຸບການສົ່ງເສີມ",
+    "all": "ທັງ ໝົດ"
+  },
+  "Affiliate_Report": {
+    "nav": "ບົດລາຍງານການເປັນພີ່ນ້ອງກັນ",
+    "main": "ບົດລາຍງານການເປັນພີ່ນ້ອງກັນ",
+    "user": "ຜູ້ໃຊ້"
+  },
+  "Money_transfer_report": {
+    "nav": "Money transfer report",
+    "main": "Money Transfer Report by Auto System",
+    "user": "ຜູ້ໃຊ້"
+  },
+  "Various_history": "Various history",
+  "Making_of_admins": {
+    "nav": "ສ້າງບັນຊີລາຍຊື່ຂອງ admin",
+    "main": "ປະຫວັດຜູ້ບໍລິຫານ",
+    "user": "ຜູ້ໃຊ້"
+  },
+  "Account_List": {
+    "nav": "ບັນຊີບັນຊີ",
+    "main": "ປະຫວັດການຝາກເງິນຂອງທະນາຄານ",
+    "user": "User"
+  },
+  "Member": "Member",
+  "Add_members": {
+    "nav": "ເພີ່ມສະມາຊິກ (ເກົ່າ / ໃໝ່)",
+    "main": "ຜູ້ໃຊ້ Register",
+    "msg": "ລະບົບມີການກວດສອບຢ່າງຫ້າວຫັນ. ກະລຸນາລະບຸຂໍ້ມູນທີ່ຖືກຕ້ອງກະລຸນາໃຊ້ຊື່ ທຳ ອິດທີ່ກົງກັບຊື່ຂອງບັນຊີທະນາຄານເທົ່ານັ້ນ.",
+    "phone": "ເບີ​ໂທລະ​ສັບ",
+    "username": "ຊື່ຜູ້ໃຊ້",
+    "firstName": "ຊື່​ແທ້",
+    "lastName": "ນາມ​ສະ​ກຸນ",
+    "accNum": "ເລກບັນຊີ",
+    "bank": "ທະນາຄານ",
+    "pass": "ລະຫັດຜ່ານ",
+    "confirm": "ຢືນ​ຢັນ​ລະ​ຫັດ",
+    "user_role": "ພາລະບົດບາດຂອງຜູ້ໃຊ້",
+    "lineID": "LINE ID",
+    "how": "ພວກເຮົາຮູ້ພວກເຮົາໄດ້ແນວໃດ?",
+    "extraQuestion": "ທ່ານຕ້ອງການທີ່ຈະໄດ້ຮັບໂບນັດເສີມບໍ? (ສາມາດປ່ຽນໄດ້ຫລັງຈາກສະ ໝັກ ແລ້ວ)",
+    "receive": "ໄດ້ຮັບ",
+    "notreceive": "ບໍ່ແມ່ນຍ້ອນ",
+    "yes": "Yes",
+    "no": "No",
+    "register": "ເຂົ້າເປັນສະມາຊິກ",
+    "custom": "Custom",
+    "old": "ລູກຄ້າເກົ່າ",
+    "addition": "ຂໍ້​ມູນ​ເພີ່ມ​ຕື່ມ",
+    "custom_user_role": "ພາລະບົດບາດຂອງຜູ້ໃຊ້ຕາມໃຈຜູ້ໃຊ້"
+  },
+  "Manage_members": {
+    "nav": "ຈັດການສະມາຊິກ",
+    "main": "ປະຫວັດຜູ້ໃຊ້",
+    "user_list": "ລາຍຊື່ຜູ້ໃຊ້"
+  },
+  "Manage_Server": "ຈັດການ Server",
+  "Agent_system": {
+    "nav": "ລະບົບຕົວແທນ",
+    "main": "ການຄຸ້ມຄອງລະບົບຕົວແທນ",
+    "reset": "RESET",
+    "last": "Last run at"
+  }
+}
